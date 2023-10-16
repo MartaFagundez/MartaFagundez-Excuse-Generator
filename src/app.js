@@ -51,7 +51,10 @@ window.onload = function() {
     "this morning",
     "when I was coming here",
     "at some point",
-    "while I was taking a shower"
+    "while I was taking a shower",
+    "the last weekend",
+    "while I was sleeping",
+    "when I went to the supermarket"
   ];
 
   generateExcuse();
